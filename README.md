@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alter-Sitanshu
 - 👀 I’m interested in coding, astronomy, machines
-- 🌱 I’m currently learning Advanced Python
+- 🌱 I’m currently learning Advanced Python,Django,Cloud Computing
 - 📫 Contact me on Instagram(_.sitanshu._) or Linkedin(SITANSHU MOHAPATRA)
 
 <!---
