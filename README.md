@@ -8,7 +8,7 @@
 ## 🔨 Tech Stack
 
 - **Languages**: Go (Golang), Python, SQL, C++
-- **Frameworks**: FastAPI, Chi, Django
+- **Frameworks**: FastAPI, Chi, Django, Gin
 - **Databases**: PostgreSQL, MySQL
 - **Tools & DevOps**: Docker, Git, REST APIs, WebSockets
 - **Others**: JWT, OAuth2, Linux, CI/CD basics
